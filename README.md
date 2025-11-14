@@ -3,22 +3,22 @@
 Smart Data Mediator is an intelligent data analysis web application built using Flask, Python, and MySQL. It allows users to upload Excel datasets, ask natural-language questions, and automatically generate insights, visualizations, and downloadable reports.
 
 **Features**
-📊 Automatic Chart Generation: Creates visualizations (bar, line, pie charts, etc.) for every query.
-🧩 Advanced NLP Understanding: Interprets user queries using natural language processing.
-🔄 Multiple File Upload: Supports uploading and managing multiple Excel datasets.
-🔍 Data Preview: Lets users preview uploaded data before analysis.
-🗃️ MySQL Backend: Stores query history, user sessions, and results.
-🧾 Downloadable Reports: Generates PDF and Word reports for analyzed data.
-💬 Chat with Data: Enables conversational interaction with datasets.
-📈 Dashboard View: Displays charts and insights in a clean, interactive dashboard.
+Automatic Chart Generation: Creates visualizations (bar, line, pie charts, etc.) for every query.
+Advanced NLP Understanding: Interprets user queries using natural language processing.
+Multiple File Upload: Supports uploading and managing multiple Excel datasets.
+Data Preview: Lets users preview uploaded data before analysis.
+MySQL Backend: Stores query history, user sessions, and results.
+Downloadable Reports: Generates PDF and Word reports for analyzed data.
+Chat with Data: Enables conversational interaction with datasets.
+Dashboard View: Displays charts and insights in a clean, interactive dashboard.
 
-**🛠️ Technologies Used**
+** Technologies Used**
 Frontend: HTML, CSS, JavaScript
 Backend: Flask (Python)
 Database: MySQL
 Libraries: Pandas, Matplotlib, SQLAlchemy, NLP tools (like spaCy or NLTK)
 
-**⚙️ How It Works**
+** How It Works**
 Upload one or more Excel datasets.
 Enter a natural language query (e.g., “Show total sales by region”).
 The system processes the query using NLP, fetches relevant data, and visualizes results.
