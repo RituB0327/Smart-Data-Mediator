@@ -32,7 +32,7 @@ The Smart Data Mediator project aims to simplify data analysis by bridging the g
  **Installation**
 
 Clone the repository
-git clone https://github.com/your-username/smart-data-mediator.git
+git clone https://github.com/RituB0327/smart-data-mediator.git
 cd smart-data-mediator
 Install required libraries
 
